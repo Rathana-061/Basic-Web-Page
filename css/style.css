@@ -207,6 +207,11 @@ i{
     border-left: 1px solid gray;
     border-right: 1px solid gray;
 }
+.card-1-1 img,
+.card-2-2 img,
+.card-3-3 img{
+    width: 150px;
+}
 .card-3{
     padding-left: 50px;
 }
